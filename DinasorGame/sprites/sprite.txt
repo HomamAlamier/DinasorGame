@@ -1,0 +1,6 @@
+bird:bird\b1.png,bird\b2.png:time=500;
+player:dinasor\d1.png,dinasor\d2.png:time=500;
+player_crouch:dinasor_crouch\d1.png,dinasor_crouch\d2.png:time=500;
+tree1:trees\s1.png:time=0;
+tree2:trees\s2.png:time=0;
+road:misc\road.png:time=0;
